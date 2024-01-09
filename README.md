@@ -66,5 +66,6 @@ YouTube Videos:
  
 https://youtube.com/playlist?list=PLYmXYyXCMsfMMhiKPw4k1FF7KWxOEajsA
 
+![kafka](https://github.com/ashim-roy/Kafka-in-nutshell/assets/118077929/d67233ad-3bbb-4a53-af1d-83255504a6a1)
 
 
